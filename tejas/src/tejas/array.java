@@ -9,6 +9,7 @@ public class array {
 			temp=arr[j];
 			arr[j]=arr[i];
 			arr[i]=temp;
+			
 		}
 		for(i=0;i<arr.lenght();i++)
 		{
